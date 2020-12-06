@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.idea
+*.iws
+*.iml
+*.ipr
+
+# Datasource local storage ignored files
+/../../../../../:\IDEAweb\platform_travel\travel\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
