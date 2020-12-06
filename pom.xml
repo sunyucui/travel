@@ -11,6 +11,7 @@
     <modules>
         <module>travel_common</module>
         <module>travel_web</module>
+        <module>travel_spark</module>
     </modules>
 
     <repositories>

@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="travel_web" />
         <module name="travel_common" />
+        <module name="travel_spark" />
       </profile>
     </annotationProcessing>
   </component>
